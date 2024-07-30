@@ -1,0 +1,1 @@
+/home/husarion/Robotous_FT_RFT60/catkin_ft/devel/.private/rft_sensor_serial/lib/python2.7/dist-packages/rft_sensor_serial/__init__.py

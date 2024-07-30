@@ -1,0 +1,6 @@
+devel_space: /home/husarion/Robotous_FT_RFT60/catkin_ft/devel
+install: false
+install_space: /home/husarion/Robotous_FT_RFT60/catkin_ft/install
+profile: default
+source_space: /home/husarion/Robotous_FT_RFT60/catkin_ft/src
+workspace: /home/husarion/Robotous_FT_RFT60/catkin_ft
